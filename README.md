@@ -1,3 +1,5 @@
+I(my llm friends) code everything cross-platform.
 
-### Hello pull request police, this is [Wultra](https://www.wultra.com/) 
-![](borzoi-siren.gif)
+Wasting water.
+
+![](cat.gif)
